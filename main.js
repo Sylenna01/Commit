@@ -9,6 +9,7 @@ console.log(sum);
 console.log(z);
 
 
+
 // comparison operator
 
 
