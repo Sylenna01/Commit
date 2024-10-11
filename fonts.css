@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Wolves;
+    src: url(./fonts/bold.otf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: Wolves;
+    src: url(./fonts/medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: Wolves;
+    src: url(./fonts/regular.otf);
+    font-weight: 400;
+}
